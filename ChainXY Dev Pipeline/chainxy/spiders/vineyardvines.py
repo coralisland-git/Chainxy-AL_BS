@@ -19,7 +19,6 @@ class vineyardvines(scrapy.Spider):
     name = "vineyardvines"
     start_urls = ['https://global.vineyardvines.com/stores']
     base_url = ''
-    #handle_httpstatus_list = [301]
     parse_address={'enabled':True}
 
     def parse(self, response):
