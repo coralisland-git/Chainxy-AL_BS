@@ -94,6 +94,6 @@ class mathnasium(scrapy.Spider):
 
     def validate(self, item):
         try:
-            return item.strip()
+            return item.strip().replace('\n', '')
         except:
             return ''
