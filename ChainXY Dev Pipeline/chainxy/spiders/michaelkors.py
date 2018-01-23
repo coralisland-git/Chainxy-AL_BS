@@ -48,57 +48,40 @@ class michaelkors(scrapy.Spider):
             for store in store_list:
                 item = ChainItem()
                 item['store_name'] = self.validate(store['displayName'])
-                try:
+                if 'locationId' in store:
                     item['store_number'] = self.validate(store['locationId'])
-                except:
-                    pass
                 item['address'] = ''
-                try:
-                    item['address'] = self.validate(store['address']['addressLine1'])
-                except:
-                    pass
-                try:
-                    item['address2'] = self.validate(store['address']['addressLine2'])
-                except:
-                    pass
-                try:
-                    item['city'] = self.validate(store['address']['city']['name'])
-                except:
-                    pass
-                try:
-                    item['state'] = self.validate(store['address']['state']['name'])
-                except:
-                    pass
-                try:
-                    item['zip_code'] = self.validate(store['address']['zipcode'])
-                except:
-                    pass
-                item['country'] = self.validate(store['address']['country']['name'])
+                if 'address' in store:
+                    if 'addressLine1' in store['address']:
+                        item['address'] = self.validate(store['address']['addressLine1'])
+                    if 'addressLine2' in store['address']:
+                        item['address2'] = self.validate(store['address']['addressLine2'])
+                    if 'city' in store['address']:
+                        item['city'] = self.validate(store['address']['city']['name'])
+                    if 'state' in store['address']:
+                        item['state'] = self.validate(store['address']['state']['name'])
+                    if 'zipcode' in store['address']:
+                        item['zip_code'] = self.validate(store['address']['zipcode'])
+                    if 'country' in store['address']:
+                        item['country'] = self.validate(store['address']['country']['name'])
+
                 item['phone_number'] = ''
-                try:
+                if 'phone_number' in store:
                     item['phone_number'] = self.validate(store['address']['phone'])
-                except:
-                    pass
-                try:
+                if 'geolocation' in store:
                     item['latitude'] = self.validate(store['geoLocation']['latitude'])
                     item['longitude'] = self.validate(store['geoLocation']['longitude'])
-                except:
-                    pass
-                try:
+                if 'operatingHours' in store:
                     item['store_hours'] = self.validate(store['operatingHours'])
-                except:
-                    pass
-                try:
+                if 'type' in store:
                     item['store_type'] = self.validate(store['type'])
-                except:
-                    pass
                 if item['address']+item['phone_number'] not in self.history:
                     self.history.append(item['address']+item['phone_number'])
                     yield item  
 
     def validate(self, item):
         try:
-            return item.strip().replace(';',', ')
+            return item.strip().replace(';',', ').encode('ascii','ignore').replace('\xe9', '')
         except:
             return ''
 
