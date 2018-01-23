@@ -50,9 +50,7 @@ class AldiSpider(scrapy.Spider):
             other=[]
             for feat in dt['bcInformation']:
                 other.append(feat['text'])
-            # try:
-            #     item['other_fields'] = "Comments: " + dt['comment'] + "; Features: " + ", ".join(other)
-            # except:
+          
             item['other_fields'] = "Features: " + ", ".join(other)
 
             # CANT TRUST THE ISOPEN ATTRIBUTE - DOESNT SEEM TO BE RIGHT
