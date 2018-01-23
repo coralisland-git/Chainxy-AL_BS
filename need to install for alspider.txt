@@ -1,0 +1,5 @@
+need to install
+
+1.	pip install requests
+2.	pip install sqlalchemy
+3.	pip install mapbox

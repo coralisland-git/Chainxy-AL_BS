@@ -1,0 +1,13 @@
+*.csv
+*.log
+*2017*
+*2018*
+.scrapy/
+.DS_Store
+.idea/*
+.ropeproject/config.py
+tox.ini
+chainxy/seed_files/seed_master.db
+*.bak
+*/.ropeproject/config.py
+chainxy_api_key.info

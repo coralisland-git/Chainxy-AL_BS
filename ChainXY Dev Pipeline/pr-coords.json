@@ -1,0 +1,1410 @@
+[
+  {
+    "city": "Ensenada",
+    "zip": "647",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.96,
+    "lng": -66.94
+  },
+  {
+    "city": "Aguirre",
+    "zip": "704",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.96,
+    "lng": -66.22
+  },
+  {
+    "city": "Guanica",
+    "zip": "653",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.93
+  },
+  {
+    "city": "Santa Isabel",
+    "zip": "757",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.4
+  },
+  {
+    "city": "Salinas",
+    "zip": "751",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.29
+  },
+  {
+    "city": "Guayama",
+    "zip": "784",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.11
+  },
+  {
+    "city": "Guayama",
+    "zip": "785",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.11
+  },
+  {
+    "city": "Arroyo",
+    "zip": "714",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.97,
+    "lng": -66.06
+  },
+  {
+    "city": "Ponce",
+    "zip": "716",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "717",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "728",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "730",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "731",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "732",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "733",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Ponce",
+    "zip": "734",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.98,
+    "lng": -66.6
+  },
+  {
+    "city": "Boqueron",
+    "zip": "622",
+    "country": "US",
+    "state": "PR",
+    "lat": 17.99,
+    "lng": -67.15
+  },
+  {
+    "city": "Mercedita",
+    "zip": "715",
+    "country": "US",
+    "state": "PR",
+    "lat": 18,
+    "lng": -66.56
+  },
+  {
+    "city": "Patillas",
+    "zip": "723",
+    "country": "US",
+    "state": "PR",
+    "lat": 18,
+    "lng": -66.01
+  },
+  {
+    "city": "Maunabo",
+    "zip": "707",
+    "country": "US",
+    "state": "PR",
+    "lat": 18,
+    "lng": -65.9
+  },
+  {
+    "city": "Guayanilla",
+    "zip": "656",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.02,
+    "lng": -66.79
+  },
+  {
+    "city": "Yauco",
+    "zip": "698",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.03,
+    "lng": -66.86
+  },
+  {
+    "city": "Lajas",
+    "zip": "667",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.04,
+    "lng": -67.06
+  },
+  {
+    "city": "Yabucoa",
+    "zip": "767",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.04,
+    "lng": -65.87
+  },
+  {
+    "city": "Juana Diaz",
+    "zip": "795",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.05,
+    "lng": -66.5
+  },
+  {
+    "city": "Penuelas",
+    "zip": "624",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.06,
+    "lng": -66.72
+  },
+  {
+    "city": "Cabo Rojo",
+    "zip": "623",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.08,
+    "lng": -67.14
+  },
+  {
+    "city": "San German",
+    "zip": "683",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.08,
+    "lng": -67.04
+  },
+  {
+    "city": "Sabana Grande",
+    "zip": "637",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.08,
+    "lng": -66.96
+  },
+  {
+    "city": "Coamo",
+    "zip": "769",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.08,
+    "lng": -66.36
+  },
+  {
+    "city": "Coto Laurel",
+    "zip": "780",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.09,
+    "lng": -66.57
+  },
+  {
+    "city": "Cayey",
+    "zip": "736",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.11,
+    "lng": -66.16
+  },
+  {
+    "city": "Cayey",
+    "zip": "737",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.11,
+    "lng": -66.16
+  },
+  {
+    "city": "Villalba",
+    "zip": "766",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.13,
+    "lng": -66.48
+  },
+  {
+    "city": "Hormigueros",
+    "zip": "660",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.14,
+    "lng": -67.12
+  },
+  {
+    "city": "Aibonito",
+    "zip": "705",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.14,
+    "lng": -66.26
+  },
+  {
+    "city": "Rosario",
+    "zip": "636",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.15,
+    "lng": -67.06
+  },
+  {
+    "city": "Humacao",
+    "zip": "791",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.15,
+    "lng": -65.81
+  },
+  {
+    "city": "Humacao",
+    "zip": "792",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.15,
+    "lng": -65.81
+  },
+  {
+    "city": "Punta Santiago",
+    "zip": "741",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.15,
+    "lng": -65.76
+  },
+  {
+    "city": "Adjuntas",
+    "zip": "601",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.16,
+    "lng": -66.72
+  },
+  {
+    "city": "La Plata",
+    "zip": "786",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.16,
+    "lng": -66.23
+  },
+  {
+    "city": "Cidra",
+    "zip": "739",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.17,
+    "lng": -66.15
+  },
+  {
+    "city": "Maricao",
+    "zip": "606",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.18,
+    "lng": -66.98
+  },
+  {
+    "city": "Barranquitas",
+    "zip": "794",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.18,
+    "lng": -66.3
+  },
+  {
+    "city": "Las Piedras",
+    "zip": "771",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.18,
+    "lng": -65.86
+  },
+  {
+    "city": "Castaner",
+    "zip": "631",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.19,
+    "lng": -66.82
+  },
+  {
+    "city": "San Lorenzo",
+    "zip": "754",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.19,
+    "lng": -65.96
+  },
+  {
+    "city": "Mayaguez",
+    "zip": "680",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.2,
+    "lng": -67.14
+  },
+  {
+    "city": "Mayaguez",
+    "zip": "681",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.2,
+    "lng": -67.14
+  },
+  {
+    "city": "Mayaguez",
+    "zip": "682",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.2,
+    "lng": -67.14
+  },
+  {
+    "city": "Naguabo",
+    "zip": "718",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.21,
+    "lng": -65.73
+  },
+  {
+    "city": "Jayuya",
+    "zip": "664",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.22,
+    "lng": -66.59
+  },
+  {
+    "city": "Orocovis",
+    "zip": "720",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.22,
+    "lng": -66.39
+  },
+  {
+    "city": "Comerio",
+    "zip": "782",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.22,
+    "lng": -66.22
+  },
+  {
+    "city": "Juncos",
+    "zip": "777",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.22,
+    "lng": -65.91
+  },
+  {
+    "city": "Rio Blanco",
+    "zip": "744",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.22,
+    "lng": -65.79
+  },
+  {
+    "city": "Caguas",
+    "zip": "725",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.23,
+    "lng": -66.03
+  },
+  {
+    "city": "Caguas",
+    "zip": "726",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.23,
+    "lng": -66.03
+  },
+  {
+    "city": "Caguas",
+    "zip": "727",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.23,
+    "lng": -66.03
+  },
+  {
+    "city": "Aguas Buenas",
+    "zip": "703",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.25,
+    "lng": -66.1
+  },
+  {
+    "city": "Gurabo",
+    "zip": "778",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.25,
+    "lng": -65.97
+  },
+  {
+    "city": "Ceiba",
+    "zip": "735",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.26,
+    "lng": -65.64
+  },
+  {
+    "city": "Las Marias",
+    "zip": "670",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.27,
+    "lng": -67.06
+  },
+  {
+    "city": "Utuado",
+    "zip": "641",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.27,
+    "lng": -66.7
+  },
+  {
+    "city": "Roosevelt Roads",
+    "zip": "742",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.27,
+    "lng": -65.65
+  },
+  {
+    "city": "Anasco",
+    "zip": "610",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -67.14
+  },
+  {
+    "city": "Angeles",
+    "zip": "611",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.79
+  },
+  {
+    "city": "Bayamon",
+    "zip": "956",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.13
+  },
+  {
+    "city": "Bayamon",
+    "zip": "957",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.13
+  },
+  {
+    "city": "Bayamon",
+    "zip": "958",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.13
+  },
+  {
+    "city": "Bayamon",
+    "zip": "959",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.13
+  },
+  {
+    "city": "Bayamon",
+    "zip": "960",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.28,
+    "lng": -66.13
+  },
+  {
+    "city": "Lares",
+    "zip": "669",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.29,
+    "lng": -66.88
+  },
+  {
+    "city": "Naranjito",
+    "zip": "719",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.3,
+    "lng": -66.24
+  },
+  {
+    "city": "Culebra",
+    "zip": "775",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.31,
+    "lng": -65.3
+  },
+  {
+    "city": "Morovis",
+    "zip": "687",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.32,
+    "lng": -66.4
+  },
+  {
+    "city": "San Sebastian",
+    "zip": "685",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.33,
+    "lng": -66.99
+  },
+  {
+    "city": "Ciales",
+    "zip": "638",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.33,
+    "lng": -66.47
+  },
+  {
+    "city": "Fajardo",
+    "zip": "738",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.33,
+    "lng": -65.65
+  },
+  {
+    "city": "Puerto Real",
+    "zip": "740",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.33,
+    "lng": -65.63
+  },
+  {
+    "city": "Rincon",
+    "zip": "677",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.34,
+    "lng": -67.25
+  },
+  {
+    "city": "Corozal",
+    "zip": "783",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.34,
+    "lng": -66.31
+  },
+  {
+    "city": "Florida",
+    "zip": "650",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.36,
+    "lng": -66.56
+  },
+  {
+    "city": "Trujillo Alto",
+    "zip": "976",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.36,
+    "lng": -66.01
+  },
+  {
+    "city": "Trujillo Alto",
+    "zip": "977",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.36,
+    "lng": -66.01
+  },
+  {
+    "city": "Saint Just",
+    "zip": "978",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.37,
+    "lng": -66.01
+  },
+  {
+    "city": "Canovanas",
+    "zip": "729",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.37,
+    "lng": -65.9
+  },
+  {
+    "city": "Palmer",
+    "zip": "721",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.37,
+    "lng": -65.77
+  },
+  {
+    "city": "Luquillo",
+    "zip": "773",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.37,
+    "lng": -65.71
+  },
+  {
+    "city": "Aguada",
+    "zip": "602",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -67.18
+  },
+  {
+    "city": "Sabana Hoyos",
+    "zip": "688",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.62
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "965",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "966",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "968",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "969",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "970",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Guaynabo",
+    "zip": "971",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -66.11
+  },
+  {
+    "city": "Rio Grande",
+    "zip": "745",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.38,
+    "lng": -65.83
+  },
+  {
+    "city": "Moca",
+    "zip": "676",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.39,
+    "lng": -67.11
+  },
+  {
+    "city": "Toa Alta",
+    "zip": "953",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.39,
+    "lng": -66.25
+  },
+  {
+    "city": "Toa Alta",
+    "zip": "954",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.39,
+    "lng": -66.25
+  },
+  {
+    "city": "Bajadero",
+    "zip": "616",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.66
+  },
+  {
+    "city": "San Juan",
+    "zip": "901",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "902",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "906",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "907",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "908",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "910",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "911",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "912",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "913",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "914",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "915",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "916",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "917",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "918",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "919",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "920",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "921",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "922",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "923",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "924",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "925",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "926",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "927",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "928",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "929",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "930",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "931",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "933",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "935",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "936",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "937",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "939",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "940",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "955",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "San Juan",
+    "zip": "975",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -66.06
+  },
+  {
+    "city": "Carolina",
+    "zip": "979",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "981",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "982",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "983",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "984",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "985",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "986",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "987",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Carolina",
+    "zip": "988",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.4,
+    "lng": -65.98
+  },
+  {
+    "city": "Vega Alta",
+    "zip": "692",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.41,
+    "lng": -66.32
+  },
+  {
+    "city": "Bayamon",
+    "zip": "961",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.41,
+    "lng": -66.15
+  },
+  {
+    "city": "Fort Buchanan",
+    "zip": "934",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.41,
+    "lng": -66.11
+  },
+  {
+    "city": "Sabana Seca",
+    "zip": "952",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.42,
+    "lng": -66.19
+  },
+  {
+    "city": "Vieques",
+    "zip": "765",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.42,
+    "lng": -65.83
+  },
+  {
+    "city": "Aguadilla",
+    "zip": "603",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -67.15
+  },
+  {
+    "city": "Aguadilla",
+    "zip": "604",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -67.15
+  },
+  {
+    "city": "Aguadilla",
+    "zip": "605",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -67.15
+  },
+  {
+    "city": "Manati",
+    "zip": "674",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -66.48
+  },
+  {
+    "city": "Catano",
+    "zip": "962",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -66.11
+  },
+  {
+    "city": "Catano",
+    "zip": "963",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -66.11
+  },
+  {
+    "city": "Loiza",
+    "zip": "772",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.43,
+    "lng": -65.88
+  },
+  {
+    "city": "Vega Baja",
+    "zip": "693",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.39
+  },
+  {
+    "city": "Vega Baja",
+    "zip": "694",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.39
+  },
+  {
+    "city": "Toa Baja",
+    "zip": "949",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.25
+  },
+  {
+    "city": "Toa Baja",
+    "zip": "950",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.25
+  },
+  {
+    "city": "Toa Baja",
+    "zip": "951",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.25
+  },
+  {
+    "city": "San Juan",
+    "zip": "909",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.44,
+    "lng": -66.06
+  },
+  {
+    "city": "Arecibo",
+    "zip": "612",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.45,
+    "lng": -66.73
+  },
+  {
+    "city": "Arecibo",
+    "zip": "613",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.45,
+    "lng": -66.73
+  },
+  {
+    "city": "Arecibo",
+    "zip": "614",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.45,
+    "lng": -66.73
+  },
+  {
+    "city": "Garrochales",
+    "zip": "652",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.45,
+    "lng": -66.6
+  },
+  {
+    "city": "Barceloneta",
+    "zip": "617",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.45,
+    "lng": -66.53
+  },
+  {
+    "city": "Quebradillas",
+    "zip": "678",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.47,
+    "lng": -66.93
+  },
+  {
+    "city": "Dorado",
+    "zip": "646",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.47,
+    "lng": -66.27
+  },
+  {
+    "city": "Camuy",
+    "zip": "627",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.48,
+    "lng": -66.84
+  },
+  {
+    "city": "Hatillo",
+    "zip": "659",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.48,
+    "lng": -66.82
+  },
+  {
+    "city": "San Antonio",
+    "zip": "690",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.49,
+    "lng": -67.09
+  },
+  {
+    "city": "Isabela",
+    "zip": "662",
+    "country": "US",
+    "state": "PR",
+    "lat": 18.5,
+    "lng": -67.02
+  }
+]

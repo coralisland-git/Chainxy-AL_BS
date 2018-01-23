@@ -1,0 +1,298 @@
+{
+    "Violet Hill": {
+        "city": "Violet Hill", 
+        "country": "United States", 
+        "longitude": "-91.85", 
+        "state": "AR", 
+        "latitude": "36.16", 
+        "zip_code": "72584"
+    }, 
+    "South Woodstock": {
+        "city": "South Woodstock", 
+        "country": "United States", 
+        "longitude": "-71.95", 
+        "state": "CT", 
+        "latitude": "41.92", 
+        "zip_code": "06267"
+    }, 
+    "Baldwinville": {
+        "city": "Baldwinville", 
+        "country": "United States", 
+        "longitude": "-72.07", 
+        "state": "MA", 
+        "latitude": "42.6", 
+        "zip_code": "01436"
+    }, 
+    "Morovis": {
+        "city": "Morovis", 
+        "country": "United States", 
+        "longitude": "-66.4", 
+        "state": "PR", 
+        "latitude": "18.32", 
+        "zip_code": "00687"
+    }, 
+    "White Pine": {
+        "city": "White Pine", 
+        "country": "United States", 
+        "longitude": "-89.58", 
+        "state": "MI", 
+        "latitude": "46.75", 
+        "zip_code": "49971"
+    }, 
+    "Castalia": {
+        "city": "Castalia", 
+        "country": "United States", 
+        "longitude": "-91.67", 
+        "state": "IA", 
+        "latitude": "43.11", 
+        "zip_code": "52133"
+    }, 
+    "Villa Ridge": {
+        "city": "Villa Ridge", 
+        "country": "United States", 
+        "longitude": "-90.88", 
+        "state": "MO", 
+        "latitude": "38.47", 
+        "zip_code": "63089"
+    }, 
+    "Harpersfield": {
+        "city": "Harpersfield", 
+        "country": "United States", 
+        "longitude": "-74.68", 
+        "state": "NY", 
+        "latitude": "42.43", 
+        "zip_code": "13786"
+    }, 
+    "Saint-Laurent East": {
+        "city": "Saint-Laurent East", 
+        "country": "Canada", 
+        "longitude": "-73.6886", 
+        "state": "QC", 
+        "latitude": "45.4979", 
+        "zip_code": "H4M"
+    }, 
+    "Winter Springs": {
+        "city": "Winter Springs", 
+        "country": "United States", 
+        "longitude": "-81.27", 
+        "state": "FL", 
+        "latitude": "28.68", 
+        "zip_code": "32719"
+    }, 
+    "Cooperstown": {
+        "city": "Cooperstown", 
+        "country": "United States", 
+        "longitude": "-98.12", 
+        "state": "ND", 
+        "latitude": "47.44", 
+        "zip_code": "58425"
+    }, 
+    "Andreas": {
+        "city": "Andreas", 
+        "country": "United States", 
+        "longitude": "-75.82", 
+        "state": "PA", 
+        "latitude": "40.74", 
+        "zip_code": "18211"
+    }, 
+    "New Raymer": {
+        "city": "New Raymer", 
+        "country": "United States", 
+        "longitude": "-103.78", 
+        "state": "CO", 
+        "latitude": "40.62", 
+        "zip_code": "80742"
+    }, 
+    "Sugar Hill": {
+        "city": "Sugar Hill", 
+        "country": "United States", 
+        "longitude": "-71.78", 
+        "state": "NH", 
+        "latitude": "44.23", 
+        "zip_code": "03586"
+    }, 
+    "East Greenbush": {
+        "city": "East Greenbush", 
+        "country": "United States", 
+        "longitude": "-73.7", 
+        "state": "NY", 
+        "latitude": "42.59", 
+        "zip_code": "12061"
+    }, 
+    "Beech Bluff": {
+        "city": "Beech Bluff", 
+        "country": "United States", 
+        "longitude": "-88.63", 
+        "state": "TN", 
+        "latitude": "35.6", 
+        "zip_code": "38313"
+    }, 
+    "Nampa": {
+        "city": "Nampa", 
+        "country": "United States", 
+        "longitude": "-116.54", 
+        "state": "ID", 
+        "latitude": "43.6", 
+        "zip_code": "83687"
+    }, 
+    "La Quinta": {
+        "city": "La Quinta", 
+        "country": "United States", 
+        "longitude": "-116.27", 
+        "state": "CA", 
+        "latitude": "33.65", 
+        "zip_code": "92253"
+    }, 
+    "West Hamlin": {
+        "city": "West Hamlin", 
+        "country": "United States", 
+        "longitude": "-82.19", 
+        "state": "WV", 
+        "latitude": "38.28", 
+        "zip_code": "25571"
+    }, 
+    "Prudence Island": {
+        "city": "Prudence Island", 
+        "country": "United States", 
+        "longitude": "-71.31", 
+        "state": "RI", 
+        "latitude": "41.6", 
+        "zip_code": "02872"
+    }, 
+    "Seekonk": {
+        "city": "Seekonk", 
+        "country": "United States", 
+        "longitude": "-71.33", 
+        "state": "MA", 
+        "latitude": "41.81", 
+        "zip_code": "02771"
+    }, 
+    "Downsview East (CFB Toronto)": {
+        "city": "Downsview East (CFB Toronto)", 
+        "country": "Canada", 
+        "longitude": "-79.4692", 
+        "state": "ON", 
+        "latitude": "43.739", 
+        "zip_code": "M3K"
+    }, 
+    "Mc Connell": {
+        "city": "Mc Connell", 
+        "country": "United States", 
+        "longitude": "-89.73", 
+        "state": "IL", 
+        "latitude": "42.43", 
+        "zip_code": "61050"
+    }, 
+    "State College": {
+        "city": "State College", 
+        "country": "United States", 
+        "longitude": "-77.85", 
+        "state": "PA", 
+        "latitude": "40.79", 
+        "zip_code": "16805"
+    }, 
+    "Granite Springs": {
+        "city": "Granite Springs", 
+        "country": "United States", 
+        "longitude": "-73.77", 
+        "state": "NY", 
+        "latitude": "41.32", 
+        "zip_code": "10527"
+    }, 
+    "Rayle": {
+        "city": "Rayle", 
+        "country": "United States", 
+        "longitude": "-82.9", 
+        "state": "GA", 
+        "latitude": "33.79", 
+        "zip_code": "30660"
+    }, 
+    "Eastville": {
+        "city": "Eastville", 
+        "country": "United States", 
+        "longitude": "-75.94", 
+        "state": "VA", 
+        "latitude": "37.35", 
+        "zip_code": "23347"
+    }, 
+    "North Eastham": {
+        "city": "North Eastham", 
+        "country": "United States", 
+        "longitude": "-70", 
+        "state": "MA", 
+        "latitude": "41.87", 
+        "zip_code": "02651"
+    }, 
+    "Tompkinsville": {
+        "city": "Tompkinsville", 
+        "country": "United States", 
+        "longitude": "-85.69", 
+        "state": "KY", 
+        "latitude": "36.7", 
+        "zip_code": "42167"
+    }, 
+    "Myra": {
+        "city": "Myra", 
+        "country": "United States", 
+        "longitude": "-97.31", 
+        "state": "TX", 
+        "latitude": "33.62", 
+        "zip_code": "76253"
+    }, 
+    "Indian Rocks Beach": {
+        "city": "Indian Rocks Beach", 
+        "country": "United States", 
+        "longitude": "-82.85", 
+        "state": "FL", 
+        "latitude": "27.89", 
+        "zip_code": "33785"
+    }, 
+    "Eatonton": {
+        "city": "Eatonton", 
+        "country": "United States", 
+        "longitude": "-83.39", 
+        "state": "GA", 
+        "latitude": "33.33", 
+        "zip_code": "31026"
+    }, 
+    "Sewell": {
+        "city": "Sewell", 
+        "country": "United States", 
+        "longitude": "-75.09", 
+        "state": "NJ", 
+        "latitude": "39.75", 
+        "zip_code": "08080"
+    }, 
+    "Satanta": {
+        "city": "Satanta", 
+        "country": "United States", 
+        "longitude": "-100.98", 
+        "state": "KS", 
+        "latitude": "37.43", 
+        "zip_code": "67870"
+    }, 
+    "Dozier": {
+        "city": "Dozier", 
+        "country": "United States", 
+        "longitude": "-86.37", 
+        "state": "AL", 
+        "latitude": "31.5", 
+        "zip_code": "36028"
+    }, 
+    "Robesonia": {
+        "city": "Robesonia", 
+        "country": "United States", 
+        "longitude": "-76.14", 
+        "state": "PA", 
+        "latitude": "40.34", 
+        "zip_code": "19551"
+    }, 
+    "Ballentine": {
+        "city": "Ballentine", 
+        "country": "United States", 
+        "longitude": "-81.06", 
+        "state": "SC", 
+        "latitude": "34.14", 
+        "zip_code": "29002"
+    }
+}

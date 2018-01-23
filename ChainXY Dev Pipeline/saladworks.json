@@ -1,0 +1,404 @@
+{
+  "Regions": [
+    {
+      "Id": 96,
+      "Name": "DE",
+      "Districts": [
+        {
+          "DistrictID": 962,
+          "DistrictName": "Bear"
+        },
+        {
+          "DistrictID": 964,
+          "DistrictName": "Middletown"
+        },
+        {
+          "DistrictID": 958,
+          "DistrictName": "Newark"
+        },
+        {
+          "DistrictID": 960,
+          "DistrictName": "Wilmington"
+        }
+      ]
+    },
+    {
+      "Id": 100,
+      "Name": "IL",
+      "Districts": [
+        {
+          "DistrictID": 972,
+          "DistrictName": "Chicago"
+        },
+        {
+          "DistrictID": 1160,
+          "DistrictName": "O'Hare"
+        }
+      ]
+    },
+    {
+      "Id": 122,
+      "Name": "KY",
+      "Districts": [
+        {
+          "DistrictID": 1132,
+          "DistrictName": "Bowling Green"
+        }
+      ]
+    },
+    {
+      "Id": 102,
+      "Name": "MD",
+      "Districts": [
+        {
+          "DistrictID": 978,
+          "DistrictName": "College Park"
+        },
+        {
+          "DistrictID": 1112,
+          "DistrictName": "S-Salisbury"
+        },
+        {
+          "DistrictID": 976,
+          "DistrictName": "Salisbury"
+        }
+      ]
+    },
+    {
+      "Id": 120,
+      "Name": "MI",
+      "Districts": [
+        {
+          "DistrictID": 1130,
+          "DistrictName": "Grand Rapids"
+        }
+      ]
+    },
+    {
+      "Id": 114,
+      "Name": "NC",
+      "Districts": [
+        {
+          "DistrictID": 1118,
+          "DistrictName": "Greensboro"
+        }
+      ]
+    },
+    {
+      "Id": 86,
+      "Name": "NJ",
+      "Districts": [
+        {
+          "DistrictID": 1012,
+          "DistrictName": "Berlin Township"
+        },
+        {
+          "DistrictID": 1032,
+          "DistrictName": "Bridgewater"
+        },
+        {
+          "DistrictID": 1024,
+          "DistrictName": "Cherry Hill"
+        },
+        {
+          "DistrictID": 1030,
+          "DistrictName": "Clementon"
+        },
+        {
+          "DistrictID": 1022,
+          "DistrictName": "Collingswood"
+        },
+        {
+          "DistrictID": 1008,
+          "DistrictName": "Delran"
+        },
+        {
+          "DistrictID": 1124,
+          "DistrictName": "Deptford"
+        },
+        {
+          "DistrictID": 1108,
+          "DistrictName": "East Rutherford"
+        },
+        {
+          "DistrictID": 986,
+          "DistrictName": "Eatontown"
+        },
+        {
+          "DistrictID": 1026,
+          "DistrictName": "Galloway"
+        },
+        {
+          "DistrictID": 1006,
+          "DistrictName": "Garwood"
+        },
+        {
+          "DistrictID": 1016,
+          "DistrictName": "Glassboro"
+        },
+        {
+          "DistrictID": 994,
+          "DistrictName": "Hainesport"
+        },
+        {
+          "DistrictID": 1152,
+          "DistrictName": "Hamilton Square"
+        },
+        {
+          "DistrictID": 1002,
+          "DistrictName": "Hillsborough Township"
+        },
+        {
+          "DistrictID": 998,
+          "DistrictName": "Holmdel"
+        },
+        {
+          "DistrictID": 984,
+          "DistrictName": "Marlton"
+        },
+        {
+          "DistrictID": 982,
+          "DistrictName": "Moorestown"
+        },
+        {
+          "DistrictID": 988,
+          "DistrictName": "Mount Laurel"
+        },
+        {
+          "DistrictID": 1034,
+          "DistrictName": "North Brunswick"
+        },
+        {
+          "DistrictID": 1158,
+          "DistrictName": "Piscataway"
+        },
+        {
+          "DistrictID": 1162,
+          "DistrictName": "Sewell"
+        },
+        {
+          "DistrictID": 1142,
+          "DistrictName": "Sicklerville"
+        },
+        {
+          "DistrictID": 940,
+          "DistrictName": "Toms River"
+        },
+        {
+          "DistrictID": 996,
+          "DistrictName": "Vineland"
+        },
+        {
+          "DistrictID": 990,
+          "DistrictName": "Voorhees Township"
+        },
+        {
+          "DistrictID": 1014,
+          "DistrictName": "Wayne"
+        },
+        {
+          "DistrictID": 1116,
+          "DistrictName": "West Caldwell"
+        },
+        {
+          "DistrictID": 1004,
+          "DistrictName": "Woodbury"
+        },
+        {
+          "DistrictID": 1040,
+          "DistrictName": "Wyckoff"
+        }
+      ]
+    },
+    {
+      "Id": 104,
+      "Name": "NY",
+      "Districts": [
+        {
+          "DistrictID": 1042,
+          "DistrictName": "West Nyack"
+        }
+      ]
+    },
+    {
+      "Id": 88,
+      "Name": "PA",
+      "Districts": [
+        {
+          "DistrictID": 1090,
+          "DistrictName": "Allentown"
+        },
+        {
+          "DistrictID": 1058,
+          "DistrictName": "Bensalem"
+        },
+        {
+          "DistrictID": 944,
+          "DistrictName": "Bethlehem"
+        },
+        {
+          "DistrictID": 1056,
+          "DistrictName": "Broomall"
+        },
+        {
+          "DistrictID": 1084,
+          "DistrictName": "Camp Hill"
+        },
+        {
+          "DistrictID": 1068,
+          "DistrictName": "Conshohocken"
+        },
+        {
+          "DistrictID": 1064,
+          "DistrictName": "Doylestown"
+        },
+        {
+          "DistrictID": 942,
+          "DistrictName": "East Norriton"
+        },
+        {
+          "DistrictID": 1094,
+          "DistrictName": "Easton"
+        },
+        {
+          "DistrictID": 1044,
+          "DistrictName": "Exton"
+        },
+        {
+          "DistrictID": 1154,
+          "DistrictName": "Feasterville Trevose"
+        },
+        {
+          "DistrictID": 1088,
+          "DistrictName": "Horsham"
+        },
+        {
+          "DistrictID": 1086,
+          "DistrictName": "Huntingdon Valley"
+        },
+        {
+          "DistrictID": 948,
+          "DistrictName": "Lancaster"
+        },
+        {
+          "DistrictID": 1050,
+          "DistrictName": "Langhorne"
+        },
+        {
+          "DistrictID": 1066,
+          "DistrictName": "Lansdale"
+        },
+        {
+          "DistrictID": 1076,
+          "DistrictName": "Lititz"
+        },
+        {
+          "DistrictID": 1070,
+          "DistrictName": "Newtown"
+        },
+        {
+          "DistrictID": 1072,
+          "DistrictName": "North Wales"
+        },
+        {
+          "DistrictID": 946,
+          "DistrictName": "Paoli"
+        },
+        {
+          "DistrictID": 1046,
+          "DistrictName": "Philadelphia"
+        },
+        {
+          "DistrictID": 1078,
+          "DistrictName": "Southampton"
+        },
+        {
+          "DistrictID": 1054,
+          "DistrictName": "Warminster"
+        },
+        {
+          "DistrictID": 1048,
+          "DistrictName": "Wayne"
+        },
+        {
+          "DistrictID": 1080,
+          "DistrictName": "West Chester"
+        },
+        {
+          "DistrictID": 1082,
+          "DistrictName": "West Grove"
+        },
+        {
+          "DistrictID": 950,
+          "DistrictName": "Whitehall"
+        },
+        {
+          "DistrictID": 1060,
+          "DistrictName": "Willow Grove"
+        },
+        {
+          "DistrictID": 1092,
+          "DistrictName": "Wyomissing"
+        }
+      ]
+    },
+    {
+      "Id": 130,
+      "Name": "TN",
+      "Districts": [
+        {
+          "DistrictID": 1156,
+          "DistrictName": "Franklin"
+        }
+      ]
+    },
+    {
+      "Id": 106,
+      "Name": "TX",
+      "Districts": [
+        {
+          "DistrictID": 1166,
+          "DistrictName": "Irving"
+        }
+      ]
+    },
+    {
+      "Id": 108,
+      "Name": "VA",
+      "Districts": [
+        {
+          "DistrictID": 1106,
+          "DistrictName": "Henrico"
+        },
+        {
+          "DistrictID": 1104,
+          "DistrictName": "Reston"
+        },
+        {
+          "DistrictID": 1138,
+          "DistrictName": "Richmond"
+        },
+        {
+          "DistrictID": 1128,
+          "DistrictName": "Virginia Beach"
+        }
+      ]
+    },
+    {
+      "Id": 124,
+      "Name": "WV",
+      "Districts": [
+        {
+          "DistrictID": 1136,
+          "DistrictName": "Morgantown"
+        }
+      ]
+    }
+  ],
+  "Districts": [],
+  "Locations": [],
+  "DeliveryStates": [],
+  "LocationGeoCoordinates": null,
+  "InfoItems": [],
+  "UserMessages": []
+}

@@ -1,0 +1,19 @@
+version: 0.0
+os: linux
+files:
+    - source: /
+      destination: /production/ChainXY_Production
+permissions:
+    - object: /
+      pattern: "**"
+      owner: ubuntu
+      group: ubuntu
+hooks:
+    ApplicationStop:
+        - location: codedeploy/applicationstop.sh
+          timeout: 120
+          runas: ubuntu
+    ApplicationStart:
+        - location: codedeploy/applicationstart.sh
+          timeout: 300
+          runas: ubuntu
