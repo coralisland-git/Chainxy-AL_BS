@@ -52,9 +52,6 @@ class AldiSpider(scrapy.Spider):
                 other.append(feat['text'])
           
             item['other_fields'] = "Features: " + ", ".join(other)
-
-            # CANT TRUST THE ISOPEN ATTRIBUTE - DOESNT SEEM TO BE RIGHT
-            # if dt['isOpen'] is True:
             item['coming_soon'] = '0'
             try:
                 item['store_hours'] = ';'.join(st1)
