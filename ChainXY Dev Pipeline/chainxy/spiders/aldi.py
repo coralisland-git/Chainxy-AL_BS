@@ -28,7 +28,6 @@ class AldiSpider(scrapy.Spider):
             dt = json.loads(str_json)
             sid = dt['id']
             item = ChainItem()
-
             item['store_name'] = res.xpath('.//strong[@class="resultItem-CompanyName" and  @itemprop="name"]/text()').extract_first()
             item['store_number'] = ''
             item['address'] = res.xpath('.//address[@itemprop="address"]/div[@itemprop="streetAddress"]/text()').extract_first().strip()
@@ -50,19 +49,9 @@ class AldiSpider(scrapy.Spider):
             other=[]
             for feat in dt['bcInformation']:
                 other.append(feat['text'])
-            # try:
-            #     item['other_fields'] = "Comments: " + dt['comment'] + "; Features: " + ", ".join(other)
-            # except:
+          
             item['other_fields'] = "Features: " + ", ".join(other)
-
-            # CANT TRUST THE ISOPEN ATTRIBUTE - DOESNT SEEM TO BE RIGHT
-            # if dt['isOpen'] is True:
             item['coming_soon'] = '0'
-            #
-            # else:
-            #     item['coming_soon'] = '1'
-            #     item['store_hours'] = ''
-            # item['coming_soon'] = '0'
             try:
                 item['store_hours'] = ';'.join(st1)
             except:
