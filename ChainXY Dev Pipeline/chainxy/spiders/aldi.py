@@ -28,7 +28,6 @@ class AldiSpider(scrapy.Spider):
             dt = json.loads(str_json)
             sid = dt['id']
             item = ChainItem()
-
             item['store_name'] = res.xpath('.//strong[@class="resultItem-CompanyName" and  @itemprop="name"]/text()').extract_first()
             item['store_number'] = ''
             item['address'] = res.xpath('.//address[@itemprop="address"]/div[@itemprop="streetAddress"]/text()').extract_first().strip()
