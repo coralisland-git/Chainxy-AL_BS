@@ -56,11 +56,6 @@ class AldiSpider(scrapy.Spider):
             # CANT TRUST THE ISOPEN ATTRIBUTE - DOESNT SEEM TO BE RIGHT
             # if dt['isOpen'] is True:
             item['coming_soon'] = '0'
-            #
-            # else:
-            #     item['coming_soon'] = '1'
-            #     item['store_hours'] = ''
-            # item['coming_soon'] = '0'
             try:
                 item['store_hours'] = ';'.join(st1)
             except:
