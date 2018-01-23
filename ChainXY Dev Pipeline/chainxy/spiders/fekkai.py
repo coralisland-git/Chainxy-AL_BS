@@ -46,7 +46,7 @@ class fekkai(scrapy.Spider):
                     address += self.validate(de) + ', '
         item['address'] = address
         item['latitude'] = ''
-        item['longitude'] = ''
+        item['longitude'] = ''  
         item['store_hours'] = ''
         hour_list = store.xpath('//div[@class="hours"]//div[@class="row"]')
         h_temp = ''

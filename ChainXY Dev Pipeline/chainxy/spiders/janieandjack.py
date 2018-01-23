@@ -18,7 +18,6 @@ from lxml import etree
 class janieandjack(scrapy.Spider):
     name = "janieandjack"
     start_urls = ['http://www.janieandjack.com/on/demandware.store/Sites-JanieAndJack-Site/default/Stores-GetNearestStores?latitude=41.850033&longitude=-87.6500523&countryCode=US&distanceUnit=mi&maxdistance=10000']
-    base_url = ''
 
     def parse(self, response):
         stores = json.loads(response.body)['stores']

@@ -5,20 +5,47 @@
 [1/20/2018 12:25:18 PM] Alfred Jim: janieandjack	done
 									greatwesternbank	done
 
+
+Aaron Brothers, should be around 98-103 locations
+Veggie Grill, should be at least 28 locations
+Ace Canada, should be at least 100 locations
+Ultrabodyfitness, should be at least 30, probably more like 50 locations
+M&M food, should be at least 330 locations, maybe around 350
+Boston pizza, should be at least 380 locations
+Mens wearhouse, should be at least 760 locations
+Mastercuts should be at least 330 locations
+New York and Co, at least 450 locations
+Sleep Happens, should be at least 208 locations,.
+
+
+
 ------------	2018/01/22	------------
 
-pricecutteronline	done
-fekkai				done
-vineyardvines		done
-janieandjack		done
-greatwesternbank	done
+pricecutteronline	done	*
+fekkai				done	*
+vineyardvines		done	*
+janieandjack		done	*
+greatwesternbank	done	*
 
 ------------	2018/01/23	------------
 
 mathnasium		done	send	*
 staterda		done	send	*
 peetsandtea		done	send	*
-kokofitclub		done	send
-pretzelmaker	done	send
-wss				done	send 
-michaelkors		done	send
+kokofitclub		done	send	*
+pretzelmaker	done	send	*
+wss				done	send 	*
+michaelkors		done	send	*
+
+------------	2018/01/24	------------
+
+Aaron Brothers		done
+Veggie Grill		progress
+Ace Canada
+Ultrabodyfitness
+M&M food
+Boston pizza
+Mens wearhouse
+Mastercuts 
+New York and Co
+Sleep Happens
